@@ -40,3 +40,7 @@ h &= \frac{t \pm \sqrt{t^2 - 4r}}{2}\\
 \left\lceil\frac{t - \sqrt{t^2 - 4r}}{2}\right\rceil \leq h \leq \left\lfloor\frac{t + \sqrt{t^2 - 4r}}{2}\right\rfloor\\
 c = \max(0, \lceil rhs \rceil - \lfloor lhs \rfloor - 1)
 $$
+
+## Part 2
+
+Thankfully, part two is just a minor adjustment from part 1 because we did the analytical solution!
